@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "axios": "^0.20.0",
+    "svelte": "^3.25.0"
+  },
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "svelte-awesome": "^2.3.0",
+    "svelte-class-transition": "^1.0.4"
+  }
+}
